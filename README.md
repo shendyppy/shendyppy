@@ -25,7 +25,7 @@ _**📚Expanding expertise across multiple programming languages (Python for LLM
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%7952B3?style=flat-square&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237952B3?style=flat-square&logo=bootstrap)
 
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
