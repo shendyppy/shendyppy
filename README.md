@@ -9,7 +9,7 @@
 
 🖖 _React.js explorer_ | 📖 _All rounder wanna be (LLM, DevOps, BackEnd newbies)_ | 🎮 _e-Sport Enthusiast_
 
-_📚**Expanding expertise across multiple programming languages (Python for LLM and backend, Node.js for backend, and various aspects of DevOps), while strengthening current skills by integrating 3D implementations and exploring advanced animation techniques.**📚_
+_**📚Expanding expertise across multiple programming languages (Python for LLM and backend, Node.js for backend, and various aspects of DevOps), while strengthening current skills by integrating 3D implementations and exploring advanced animation techniques.📚**_
 
 
 ## _My Current Tech Stack_
@@ -31,4 +31,3 @@ _📚**Expanding expertise across multiple programming languages (Python for LLM
 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-![Vercel](https://img.shields.io/badge/-Firebase-%23ffffff?style=flat-square&logo=firebase&logoColor=%23F7DF1)
