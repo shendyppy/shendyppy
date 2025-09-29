@@ -1,9 +1,9 @@
 # __Hi, My name is Shendy Putra Perdana Yohansah__
 
 [![](https://img.shields.io/badge/-@shendyppy-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/shendyppy)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/shendyppy/)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shendyppy/)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square)](https://shendyppy.vercel.app)
+[![](https://img.shields.io/badge/-@shendyppy-%23181717?style=flat-square&logo=github)](https://github.com/shendyppy/)
+[![](https://img.shields.io/badge/-@shendyppy-%23000000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shendyppy/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=shendyppy.vercel.app&url=https%3A%2F%2Fshendy.vercel.app)](https://shendyppy.vercel.app)
 
 :computer: _Currently a web dev enthusiast related to React.js._
 
