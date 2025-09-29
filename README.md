@@ -1,10 +1,18 @@
 # __Hi, My name is Shendy Putra Perdana Yohansah__
 
-:computer: _Currently a web dev enthusist related to React.js._
+[![](https://img.shields.io/badge/-@shendyppy-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/shendyppy)
+[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/shendyppy/)
+[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shendyppy/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square)](https://shendyppy.vercel.app)
 
-🖖 _React.js explorer_ | 📖 _All rounder wanna be (LLM, DevOps, BackEnd newbies)_ | 🎮 _e-Sport Enthusiast_ | 🌵 _
+:computer: _Currently a web dev enthusiast related to React.js._
 
-## _My Tech Stack_
+🖖 _React.js explorer_ | 📖 _All rounder wanna be (LLM, DevOps, BackEnd newbies)_ | 🎮 _e-Sport Enthusiast_
+
+_📚**Expanding expertise across multiple programming languages (Python for LLM and backend, Node.js for backend, and various aspects of DevOps), while strengthening current skills by integrating 3D implementations and exploring advanced animation techniques.**📚_
+
+
+## _My Current Tech Stack_
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -23,3 +31,4 @@
 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
+![Vercel](https://img.shields.io/badge/-Firebase-%23ffffff?style=flat-square&logo=firebase&logoColor=%23F7DF1)
