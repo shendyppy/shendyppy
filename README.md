@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/-@shendyppy-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/shendyppy)
 [![](https://img.shields.io/badge/-@shendyppy-%23181717?style=flat-square&logo=github)](https://github.com/shendyppy/)
-[![](https://img.shields.io/badge/-@shendyppy-%23000000?style=flat-square&logo=linkedIn)](https://www.linkedin.com/in/shendyppy/)
+[![](https://img.shields.io/website?color=oa66c2&style=flat-square&up_message=linkedin.com/in/shendyppy&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshendyppy))](https://www.linkedin.com/in/shendyppy/)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=shendyppy.vercel.app&url=https%3A%2F%2Fshendy.vercel.app)](https://shendyppy.vercel.app)
 
 :computer: _Currently a web dev enthusiast related to React.js._
@@ -31,3 +31,4 @@ _**📚Expanding expertise across multiple programming languages (Python for LLM
 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
+![Firebase](https://img.shields.io/badge/-Firebase-%23ffffff?style=flat-square&logo=firebase&logoColor=%23DD2C00)
