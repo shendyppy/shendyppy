@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/-@shendyppy-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/shendyppy)
 [![](https://img.shields.io/badge/-@shendyppy-%23181717?style=flat-square&logo=github)](https://github.com/shendyppy/)
-[![](https://img.shields.io/badge/-@shendyppy-%230A66C2?style=flat-square&logo=INSPIRE&logoColor=ffffff))](https://www.linkedin.com/in/shendyppy/)
+[![](https://img.shields.io/badge/-@shendyppy-%230A66C2?style=flat-square&logo=INSPIRE&logoColor=ffffff)](https://www.linkedin.com/in/shendyppy/)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=shendyppy.vercel.app&url=https%3A%2F%2Fshendy.vercel.app)](https://shendyppy.vercel.app)
 
 :computer: _Currently a web dev enthusiast related to React.js._
