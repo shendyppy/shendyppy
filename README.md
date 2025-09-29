@@ -31,4 +31,5 @@ _**📚Expanding expertise across multiple programming languages (Python for LLM
 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-![Firebase](https://img.shields.io/badge/-Firebase-%23ffffff?style=flat-square&logo=firebase&logoColor=%23DD2C00)
+![Firebase](https://img.shields.io/badge/-Firebase-%23F7DF1E?style=flat-square&logo=firebase&logoColor=%23DD2C00)
+![Jest](https://img.shields.io/badge/-Next.js-%C21325?style=flat-square&logo=jest)
