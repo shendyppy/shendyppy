@@ -9,7 +9,7 @@
 
 :computer: _Currently a web dev enthusiast related to React.js and Next.js._
 
-🖖 _React.js explorer & Next.js newbie_ | 📖 _All rounder wanna be (LLM, DevOps, BackEnd newbies)_ | 🎮 _e-Sport Enthusiast_
+🖖 _React.js & Next.js explorer_ | 📖 _All rounder wanna be (LLM, DevOps, BackEnd newbies)_ | 🎮 _e-Sport Enthusiast_
 
 _**📚Expanding expertise across multiple programming languages (Python for LLM and backend, Node.js for backend, and various aspects of DevOps), while strengthening current skills by integrating 3D implementations and exploring advanced animation techniques.📚**_
 
