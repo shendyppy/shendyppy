@@ -7,9 +7,9 @@
 
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=shendyppy.vercel.app&url=https%3A%2F%2Fshendy.vercel.app)](https://shendyppy.vercel.app)
 
-:computer: _Currently a web dev enthusiast related to React.js._
+:computer: _Currently a web dev enthusiast related to React.js and Next.js._
 
-🖖 _React.js explorer_ | 📖 _All rounder wanna be (LLM, DevOps, BackEnd newbies)_ | 🎮 _e-Sport Enthusiast_
+🖖 _React.js explorer & Next.js newbie_ | 📖 _All rounder wanna be (LLM, DevOps, BackEnd newbies)_ | 🎮 _e-Sport Enthusiast_
 
 _**📚Expanding expertise across multiple programming languages (Python for LLM and backend, Node.js for backend, and various aspects of DevOps), while strengthening current skills by integrating 3D implementations and exploring advanced animation techniques.📚**_
 
